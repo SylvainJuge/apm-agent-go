@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.elastic.co/apm/module/apmsql/v2 v2.4.2
 	go.elastic.co/apm/v2 v2.4.2
-	mellium.im/sasl v0.2.1 // indirect
+	mellium.im/sasl v0.3.1 // indirect
 )
 
 replace go.elastic.co/apm/v2 => ../..
